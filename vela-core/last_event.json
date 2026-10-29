@@ -1,0 +1,10 @@
+{
+  "system": "Vela Core",
+  "target": "ตรวจสอบระบบสแกมเมอร์และอัปเดตสคริปต์ฐานทัพลำปาง",
+  "location": "Ban Pao, Mueang Lampang, Thailand",
+  "coordinates": {
+    "lat": 18.2888,
+    "lng": 99.4923
+  },
+  "auto_command": "cd ~/vela-core && echo 'Executing action for: ตรวจสอบระบบสแกมเมอร์และอัปเดตสคริปต์ฐานทัพลำปาง' && git status"
+}

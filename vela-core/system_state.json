@@ -1,0 +1,8 @@
+{
+  "last_sync": {
+    "task_id": "TASK-9921",
+    "result": "success",
+    "message": "ประมวลผลภายนอกสำเร็จและส่งข้อมูลกลับเข้า Vela Core แล้ว"
+  },
+  "status": "integrated_successfully"
+}
